@@ -17,7 +17,7 @@ table 50100 "User test"
         }
         field(3; "Test Name 2"; Text[150])
         {
-            Caption = 'Test Namem2';
+            Caption = 'Test Na mem2';
             DataClassification = ToBeClassified;
         }
     }
