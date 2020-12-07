@@ -15,6 +15,11 @@ table 50100 "User test"
             Caption = 'Test Name';
             DataClassification = ToBeClassified;
         }
+        field(3; "Test Name 2"; Text[150])
+        {
+            Caption = 'Test Namem2';
+            DataClassification = ToBeClassified;
+        }
     }
     keys
     {
